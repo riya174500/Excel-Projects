@@ -126,3 +126,17 @@ Through this project, I developed practical experience in:
 ---
 
 ⭐ This project demonstrates my ability to transform raw datasets into actionable insights using Excel's analytical, reporting, and visualisation capabilities.
+
+
+<img width="1850" height="846" alt="image" src="https://github.com/user-attachments/assets/6fe686ed-e5f9-48d8-ab8b-58d0946afe07" />
+
+
+<img width="1337" height="601" alt="image" src="https://github.com/user-attachments/assets/4908af7d-614a-47b2-b0f2-e4e8eba0f32c" />
+
+
+<img width="1717" height="386" alt="image" src="https://github.com/user-attachments/assets/f527bac2-e31e-4c80-8475-fce660c7b242" />
+
+
+<img width="972" height="381" alt="image" src="https://github.com/user-attachments/assets/3442f62a-6be9-4775-be0b-c61653b94179" />
+
+
