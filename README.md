@@ -1,24 +1,10 @@
-# 📊 Excel Data Analysis Project | Data Technician Bootcamp
+# 📊 Excel Analytics & Dashboarding
 
 ## 🚀 Overview
 
-This project showcases the practical Excel skills developed throughout my **Data Technician Bootcamp**, where I worked across multiple real-world datasets covering retail, sales, customer, and business performance scenarios.
+This repository showcases my Excel skills through a collection of hands-on data analysis, reporting, and visualisation exercises. Working with retail sales, bike sales, human resources, and environmental datasets, I applied Excel's analytical capabilities to transform raw data into meaningful business insights.
 
-The workbook involved a variety of analytical tasks designed to simulate workplace data processes, including cleaning and structuring datasets, performing calculations with advanced Excel formulas, creating dynamic reports, analysing trends, and presenting findings through visualisations.
-
-Across several datasets, I applied Excel's analytical capabilities to:
-
-📊 Transform raw data into meaningful insights  
-🧮 Build formula-driven solutions for business calculations  
-🔍 Explore datasets using filtering and sorting techniques  
-📈 Analyse performance trends and key metrics  
-📋 Create PivotTables for summarising large volumes of data  
-📉 Design charts and visual reports for stakeholder communication  
-⚡ Automate data categorisation and calculations using logical functions  
-
-The workbook covered a range of business-focused exercises, including retail transactions, sales performance analysis, customer segmentation, product performance evaluation, and data reporting activities. Through these exercises, I developed a strong foundation in using Excel as a tool for data analysis, business intelligence, and decision-making.
-
-This repository demonstrates my ability to work confidently with diverse datasets, extract actionable insights, and communicate findings effectively using industry-standard Excel techniques.
+The project focused on data cleaning, formula-based calculations, PivotTables, reporting, and chart creation, helping develop practical skills in analysing and communicating data effectively.
 
 ---
 
@@ -30,81 +16,83 @@ This repository demonstrates my ability to work confidently with diverse dataset
 ✅ `SUMIF()`  
 ✅ `AVERAGE()`  
 ✅ `AVERAGEIF()`  
+✅ `IF()`  
+✅ `IFS()`  
 ✅ `DATE()`  
 ✅ `MONTH()`  
 ✅ `YEAR()`  
 ✅ `UNIQUE()`  
 ✅ `VLOOKUP()`  
+✅ `XLOOKUP()`  
 ✅ `SWITCH()`  
-
----
+✅ `CONCATENATE()`
 
 ### 📋 Data Analysis
 
-🔹 Data filtering and segmentation  
-🔹 Multi-level sorting  
-🔹 Trend identification  
-🔹 Data validation  
-🔹 Data exploration and insights generation  
-
----
+✅ Data Cleaning & Validation  
+✅ Filtering & Segmentation  
+✅ Multi-Level Sorting  
+✅ Trend Analysis  
+✅ Data Exploration  
+✅ Business Reporting  
+✅ Conditional Formatting
 
 ### 📊 Reporting & Visualisation
 
-📈 PivotTables  
-📉 Pivot Charts  
-📊 Column Charts  
-📋 Summary Reports  
-🎯 KPI Tracking  
-📌 Business Performance Analysis  
+✅ PivotTables  
+✅ Pivot Charts  
+✅ Column Charts  
+✅ Bar Charts  
+✅ Line Charts  
+✅ Dashboard Creation  
+✅ KPI Reporting  
+✅ Slicers
 
 ---
 
 ## 💡 Project Highlights
 
 ### 🏪 Retail Sales Analysis
-- Analysed retail transaction datasets
-- Investigated customer purchasing patterns
-- Evaluated sales performance across products and regions
-- Generated data-driven business insights
+
+- Analysed retail transaction data to identify sales trends and performance metrics
+- Applied formulas to calculate totals, averages, and conditional metrics
+- Used filters and sorting techniques to explore customer and product data
+- Generated reports to support business decision-making
 
 ### 🚲 Bike Sales Analysis
-- Built PivotTables to summarise sales and profit metrics
-- Compared performance across countries and customer groups
-- Explored demographic trends and purchasing behaviour
-- Created charts to support business decision-making
 
-### 🔄 Dynamic Categorisation
-Used the **`SWITCH()`** function to categorise sales performance into:
-- 🟢 High Sales
-- 🟡 Medium Sales
-- 🔴 Low Sales
+- Created PivotTables to summarise sales data across products and customer segments
+- Built Pivot Charts and visual reports to identify trends and patterns
+- Analysed sales performance using interactive summaries and dashboards
+- Compared metrics across different demographic groups
+
+### 👥 Human Resources Analysis
+
+- Investigated employee and workforce data using Excel functions and reporting tools
+- Organised and analysed HR datasets through sorting, filtering, and calculations
+- Presented workforce insights through summary reports
+
+### 🌪️ Atlantic Hurricane Analysis
+
+- Calculated maximum wind speeds as per the hurricane categories using **`SWITCH()`** function
 
 ---
 
 ## 🎯 Key Deliverables
 
-✅ Data Cleaning & Preparation  
 ✅ Formula-Based Analysis  
-✅ Sales Performance Reporting  
+✅ Data Cleaning & Preparation  
+✅ Sales & Retail Reporting  
 ✅ Interactive PivotTables  
-✅ Business Intelligence Dashboards  
-✅ Professional Data Visualisations  
+✅ Dashboard Development  
+✅ Business Insight Generation  
+✅ Data Visualisation & Storytelling
 
 ---
 
-## 🏆 Learning Outcomes
+## 📖 Data Analysis & Reporting
 
-Through this project, I developed practical experience in:
-
-📊 Data Analytics  
-📈 Business Reporting  
-🧹 Data Cleaning  
-🔍 Data Investigation  
-📋 Dashboard Creation  
-💼 Retail & Sales Analysis  
-⚡ Spreadsheet Automation  
-📉 Data Visualisation  
+A key focus of this work was transforming raw data into clear, actionable insights. By combining formulas, PivotTables, filters, sorting tools, and visualisations, I developed the ability to identify trends, measure performance, and communicate findings through professional reports and dashboards.
 
 ---
 
@@ -114,29 +102,32 @@ Through this project, I developed practical experience in:
 - PivotTables
 - Pivot Charts
 - Advanced Excel Functions
-- Data Sorting & Filtering
+- Data Filtering & Sorting
+- Dashboard Design
 - Business Reporting Techniques
 
 ---
 
-## 📚 Skills Showcase
+## 🏆 Skills Showcase
 
-`Excel` • `Data Analysis` • `Data Visualisation` • `PivotTables` • `Pivot Charts` • `VLOOKUP` • `SWITCH` • `SUMIF` • `AVERAGEIF` • `UNIQUE` • `Business Intelligence` • `Dashboarding` • `Retail Analytics` • `Sales Reporting`
+`Excel` • `Data Analysis` • `Dashboarding` • `PivotTables` • `Pivot Charts` • `VLOOKUP` • `xLOOKUP` • `SWITCH` • `SUMIF` • `AVERAGEIF` • `IFS` • `UNIQUE` • `Data Visualisation` • `Business Reporting` • `Retail Analytics` • `Sales Analysis`
 
 ---
 
-⭐ This project demonstrates my ability to transform raw datasets into actionable insights using Excel's analytical, reporting, and visualisation capabilities.
+⭐ This repository demonstrates my ability to analyse, organise, and visualise data using Microsoft Excel, transforming raw datasets into meaningful insights that support informed decision-making.
+
+### Pivot Table and Pivot Charts
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f527bac2-e31e-4c80-8475-fce660c7b242" />  
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4908af7d-614a-47b2-b0f2-e4e8eba0f32c" />  
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/3442f62a-6be9-4775-be0b-c61653b94179" />  
+
+### Retail Sales Analysis
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/6fe686ed-e5f9-48d8-ab8b-58d0946afe07" />  
 
 
-<img width="1850" height="846" alt="image" src="https://github.com/user-attachments/assets/6fe686ed-e5f9-48d8-ab8b-58d0946afe07" />
-
-
-<img width="1337" height="601" alt="image" src="https://github.com/user-attachments/assets/4908af7d-614a-47b2-b0f2-e4e8eba0f32c" />
-
-
-<img width="1717" height="386" alt="image" src="https://github.com/user-attachments/assets/f527bac2-e31e-4c80-8475-fce660c7b242" />
-
-
-<img width="972" height="381" alt="image" src="https://github.com/user-attachments/assets/3442f62a-6be9-4775-be0b-c61653b94179" />
 
 
