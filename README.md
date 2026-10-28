@@ -4,7 +4,7 @@
 
 This repository showcases my Excel skills through a collection of hands-on data analysis, reporting, and visualisation exercises. Working with retail sales, bike sales, human resources, and environmental datasets, I applied Excel's analytical capabilities to transform raw data into meaningful business insights.
 
-The project focused on data cleaning, formula-based calculations, PivotTables, reporting, and chart creation, helping develop practical skills in analysing and communicating data effectively.
+The project is focused on data cleaning, formula-based calculations, PivotTables, reporting, and chart creation, helping develop practical skills in analysing and communicating data effectively.
 
 ---
 
