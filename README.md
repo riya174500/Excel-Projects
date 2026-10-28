@@ -122,7 +122,8 @@ A key focus of this work was transforming raw data into clear, actionable insigh
 
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4908af7d-614a-47b2-b0f2-e4e8eba0f32c" />  
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/3442f62a-6be9-4775-be0b-c61653b94179" />
+![Pivot Table and Pivot Charts](https://github.com/user-attachments/assets/3442f62a-6be9-4775-be0b-c61653b94179)
+
 
 ### Retail Sales Analysis
 
